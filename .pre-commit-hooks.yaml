@@ -1,0 +1,6 @@
+- id: selene
+  name: selene
+  description: Lints lua files using selence
+  entry: selene --
+  language: system
+  types: [file, lua]
